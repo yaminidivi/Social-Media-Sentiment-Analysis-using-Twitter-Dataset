@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis: Leveraging NLP and Machine Learning for Social Insights
+# Twitter Sentiment Analysis: Leveraging NLP and Deep Learning for Social Insights
 
 # Introduction:
 This project focuses on analyzing sentiments expressed in Twitter data using Natural Language Processing (NLP) and Machine Learning (ML) techniques. By harnessing the power of data science, we aim to gain valuable insights into social sentiments, particularly pertaining to airline experiences.
